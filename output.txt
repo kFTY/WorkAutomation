@@ -1,0 +1,68 @@
+Source for Fiber Optics, Laser Diodes, Optical Instrumentation and Polarization Measurement &amp; Control.		P000001024461-13287	
+Source for Fiber Optics, Laser Diodes, Optical Instrumentation and Polarization Measurement &amp; Control.		lensset	
+Source for Fiber Optics, Laser Diodes, Optical Instrumentation and Polarization Measurement &amp; Control.		k.A.	
+Source for Fiber Optics, Laser Diodes, Optical Instrumentation and Polarization Measurement &amp; Control.		concavelens	
+Ø2" 30:70 (R:T) UVFS Plate Beamsplitter, Coating: 400-700 nm, t = 8 mm		BSS16	145.80
+Ø25 mm AR-Coated Neutral Density Filter, 350-700 nm, OD: 3.0		NE30B-A	51.03
+Ø1" N-BK7 Ground Glass Diffuser, 1500 Grit, ARC: 350-700 nm		DG10-1500-A	38.25
+Ø1" (Ø25.4 mm) UV Enhanced Aluminum Mirror		PF10-03-F01	45.00
+f = 75.60 mm, H = 25.40 mm, L = 51.0 mm, N-BK7 Plano-Convex Cylindrical Lens, Antireflection Coating: 350-700 nm		LJ1054L2-A	109.80
+Ø1" (Ø25.4 mm) UV Enhanced Aluminum Mirror		PF10-03-F01	45.00
+Ø1" (Ø25.4 mm) UV Enhanced Aluminum Mirror		PF10-03-F01	45.00
+Ø1" (Ø25.4 mm) UV Enhanced Aluminum Mirror		PF10-03-F01	45.00
+Ø1" (Ø25.4 mm) UV Enhanced Aluminum Mirror		PF10-03-F01	45.00
+f=12.7 mm, Ø6.35 mm Achromatic Doublet, ARC: 400-700 nm		AC064-013-A	39.42
+f=19.0 mm, Ø1/2" Achromatic Doublet, ARC: 400-700 nm		AC127-019-A	44.91
+f=25.0 mm, Ø1/2" Achromatic Doublet, ARC: 400-700 nm		AC127-025-A	44.91
+f=45.0 mm, Ø1" Achromatic Doublet, ARC: 400-700 nm		AC254-045-A	66.06
+f=50 mm, Ø1" Achromatic Doublet, SM1-Threaded Mount, ARC: 400-700 nm		AC254-050-A-ML	86.31
+Reflective Ø25 mm ND Filter, SM1-Threaded Mount, Optical Density: 1.0		ND10A	51.41
+Ø1" Broadband Dielectric Mirror, 400 - 750 nm		BB1-E02	67.59
+Ø1/2" SM05-Mounted Frosted Glass Alignment Disk w/Ø1 mm Hole		DG05-1500-H1-MD	26.46
+N-BK7 Bi-Convex Lens, Ø6.0 mm, f = 10.0 mm, ARC: 350-700nm		LB1157-A	28.17
+N-BK7 Plano-Convex Lens, Ø1", f = 30.0 mm, AR Coating: 350-700 nm		LA1805-A	29.61
+Ø1" Mounted Achromatic Half-Wave Plate, SM1-Threaded Mount, 400 - 800 nm		AHWP10M-600	765.00
+Air-Spaced Achromatic Doublet, AR Coating: 650 - 1050 nm, f = 50 mm		ACA254-050-B	427.50
+Source for Fiber Optics, Laser Diodes, Optical Instrumentation and Polarization Measurement &amp; Control.		C5601ME-A	
+Source for Fiber Optics, Laser Diodes, Optical Instrumentation and Polarization Measurement &amp; Control.		LB1471-?	
+Ø1" Mounted Precision Pinhole, 75 ± 3 µm Pinhole Diameter		P75S	59.40
+f = 15.29 mm, NA = 0.16, Mounted Geltech Aspheric Lens, AR: 400-600 nm		C260TME-A	
+f=100.0 mm, Ø1" Achromatic Doublet, ARC: 400-700 nm		AC254-100A	66.06
+N-BK7 Plano-Convex Lens, Ø1", f = 75.0 mm, Uncoated		LA1608	19.08
+f=300.0 mm, Ø1" Achromatic Doublet, ARC: 400-700 nm		AC254-300-A	66.06
+N-BK7 Plano-Convex Lens, Ø1", f = 60.0 mm, AR Coating: 350-700 nm		LA1134-A	27.99
+f=150.0 mm, Ø1" Achromatic Doublet, ARC: 400-700 nm		AC254-150-A	66.06
+f=300.0 mm, Ø1" Achromatic Doublet, ARC: 400-700 nm		AC254-300-A	66.06
+f=40 mm, Ø1" Achromatic Doublet, SM1-Threaded Mount, ARC: 400-700 nm		AC254-040-A-ML	86.31
+N-BK7 Plano-Convex Lens, Ø1", f = 30.0 mm, AR Coating: 650-1050 nm		LA1805-B	29.61
+Economy 50:50 Beamsplitter, Diameter: Ø1", AOI: 45°		EBS1	28.26
+Ø1" (Ø25.4 mm) Protected Silver Mirror, 0.24" (6.0 mm) Thick		PF10-03-P01	45.00
+Ø1" (Ø25.4 mm) Protected Silver Mirror, 0.24" (6.0 mm) Thick		PF10-03-P01	45.00
+Ø1" Broadband Dielectric Mirror, 750 - 1100 nm		BB1-E03	67.59
+Ø1" Broadband Dielectric Mirror, 750 - 1100 nm		BB1-E03	67.59
+Ø1" Broadband Dielectric Mirror, 750 - 1100 nm		BB1-E03	67.59
+Source for Fiber Optics, Laser Diodes, Optical Instrumentation and Polarization Measurement &amp; Control.		k.A.	
+Source for Fiber Optics, Laser Diodes, Optical Instrumentation and Polarization Measurement &amp; Control.		PO1	
+Ø25 mm AR-Coated Neutral Density Filter, 350-700 nm, OD: 1.0		NE10B-A	49.14
+Ø25 mm AR-Coated Neutral Density Filter, 350-700 nm, OD: 0.1		NE01B-A	51.03
+Ø25 mm AR-Coated Neutral Density Filter, 350-700 nm, OD: 0.3		NE03B-A	49.14
+Ø25 mm AR-Coated Neutral Density Filter, 350-700 nm, OD: 0.2		NE02B-A	51.03
+			
+Ø1" Achromatic Triplet, SM1-Threaded Mount, f = 40.6 mm, ARC: 400 - 700 nm		TRS254-040-A-ML	87.12
+f=200.0 mm, Ø1" Achromatic Doublet, ARC: 400-700 nm		AC254-200-A	66.06
+f=100.0 mm, Ø1" Achromatic Doublet, ARC: 400-700 nm		AC254-100-A	66.06
+f=80.0 mm, Ø1" Achromatic Doublet, ARC: 400-700 nm		AC254-080-A	66.06
+f=250.0 mm, Ø1" Achromatic Doublet, ARC: 400-700 nm		AC254-250-A	66.06
+f=500.0 mm, Ø1" Achromatic Doublet, ARC: 400-700 nm		AC254-500-A	66.06
+Source for Fiber Optics, Laser Diodes, Optical Instrumentation and Polarization Measurement &amp; Control.		F1-03	
+f=30.0 mm, Ø1" Achromatic Doublet, ARC: 400-700 nm		AC254-030-A	71.37
+f=30.0 mm, Ø1" Achromatic Doublet, ARC: 400-700 nm		AC254-030-A	71.37
+f=125.0 mm, Ø1" Achromatic Doublet, ARC: 400-700 nm		AC254-125-A	66.06
+f=125.0 mm, Ø1" Achromatic Doublet, ARC: 400-700 nm		AC254-125-A	66.06
+Ø1" Broadband Dielectric Mirror, 400 - 750 nm		BB1-E02	67.59
+Ø1" Broadband Dielectric Mirror, 750 - 1100 nm		BB1-E03	67.59
+Ø1" Broadband Dielectric Mirror, 1280 - 1600 nm		BB1-E04	108.00
+Source for Fiber Optics, Laser Diodes, Optical Instrumentation and Polarization Measurement &amp; Control.		BB1-E05	
+Source for Fiber Optics, Laser Diodes, Optical Instrumentation and Polarization Measurement &amp; Control.		BB1-E06	
+Source for Fiber Optics, Laser Diodes, Optical Instrumentation and Polarization Measurement &amp; Control.		48825	
+Source for Fiber Optics, Laser Diodes, Optical Instrumentation and Polarization Measurement &amp; Control.		48825	
