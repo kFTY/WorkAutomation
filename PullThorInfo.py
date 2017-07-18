@@ -1,30 +1,38 @@
 import urllib.request
+import re
+from bs4 import BeautifulSoup
+
 
 # Produce the URLs
 urlhead = "https://www.thorlabs.de/thorproduct.cfm?partnumber="
 urls = []
+partlist1 = []
+qty = []
 with open("partlist.txt", "r", -1, 'utf-8') as partlist:
     partnumber = partlist.read().splitlines()
+
 for name in partnumber:
-    urls.append("%s%s" % (urlhead, name))
+    name1 = re.search(r"(.*?)(\t)(.*)", name)
+    if name1 is not None:
+        qty.append(name1.group(3))
+        name1 = name1.group(1)
+        urls.append("%s%s" % (urlhead, name1))
+        partlist1.append(name1)
 
 
 # Download HTML file
-
 i = 0
 for url in urls:
     # remove signs in the file name
-    namef = "".join(x for x in partnumber[i] if x.isalnum())
+    namef = "".join(x for x in partlist1[i] if x.isalnum())
     try:
         urllib.request.urlretrieve(url, "/tmp/%s" % namef)
-        print ("downloading", partnumber[i])
+        print ("downloading", partlist1[i])
     except:
-            print ("error")
-    
+        print ("error")
     i += 1
 
 # Find out the part name
-from bs4 import BeautifulSoup
 
 
 def getNamePrice(partnumber):
@@ -37,7 +45,7 @@ def getNamePrice(partnumber):
     except:
         file = ""
         print ("cannot find")
-        return ["","",""]
+        return ["", "", ""]
 
     soupfile = BeautifulSoup(file, "lxml")
 
@@ -56,13 +64,17 @@ def getNamePrice(partnumber):
 
 # Get Name and Price for all parts
 outputfile = open("output.txt", "w", -1, 'utf-8')
-for name in partnumber:
+i = 0
+for name in partlist1:
     print ("getting information for %s" % name)
     outputfile.write(getNamePrice("%s" % name)[0])
     outputfile.write("\t\t")
     outputfile.write(getNamePrice("%s" % name)[1])
     outputfile.write("\t")
     outputfile.write(getNamePrice("%s" % name)[2])
+    outputfile.write("\t")
+    outputfile.write(qty[i])
     outputfile.write("\n")
+    i += 1
 
 print ("Done")
